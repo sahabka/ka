@@ -9,6 +9,6 @@
         "message_url": "https:\/\/example.com\/update",
         "share_message": "Share Message",
         "bottom_visible": "no",
-        "msg_visible": "yes"
+        "msg_visible": "no"
     }
 ]
