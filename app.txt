@@ -7,7 +7,7 @@
         "app_version": "0",
         "message": "We Need Your Support Give us 5 Star \ud83c\udf1f Rating",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.redstar.starsports.tv.startvsports",
-        "share_message": "Share Message",
+        "share_message": "Download This Amazing App and enjoy cricket free live streaming https:\/\/play.google.com\/store\/apps\/details?id=com.redstar.starsports.tv.startvsports",
         "bottom_visible": "no",
         "msg_visible": "no"
     }
