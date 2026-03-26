@@ -6,7 +6,7 @@
         "web_url": "https:\/\/example.com",
         "app_version": "0",
         "message": "New update available!",
-        "message_url": "https:\/\/example.com\/update",
+        "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.redstar.starsports.tv.startvsports",
         "share_message": "Share Message",
         "bottom_visible": "no",
         "msg_visible": "no"
