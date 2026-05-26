@@ -4,7 +4,7 @@
         "ads_data": "{\"sdk_key\":\"fk\",\"banner_ad_id\":\"vkv\",\"inter_ad_id\":\"fkc\",\"native_ad_id\":\"cic\"}",
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.play.craftz.mystic.action",
         "web_url": "https:\/\/example.com",
-        "app_version": "0",
+        "app_version": "5",
         "message": "Bored? \ud83d\ude34\nPlay Arrow Escape - Rescue the Pets \ud83d\udc3e\ud83c\udff9\nSolve tricky puzzles, free cute pets, and challenge your brain with every level! \ud83c\udfae\u2728",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.funzar.arrow",
         "share_message": "Download This Amazing App and enjoy cricket free live streaming https:\/\/play.google.com\/store\/apps\/details?id=com.redstar.starsports.tv.startvsports",
