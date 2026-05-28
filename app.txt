@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.app.craftz.play",
         "web_url": "https:\/\/example.com",
         "app_version": "5",
-        "message": "Bored? \ud83d\ude34\nPlay Arrow Escape - Rescue the Pets \ud83d\udc3e\ud83c\udff9\nSolve tricky puzzles, free cute pets, and challenge your brain with every level! \ud83c\udfae\u2728",
+        "message": "Try Cat Blast - Block Puzzle and blast cute cat blocks now! \ud83d\udc31\ud83d\udca5",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.funzar.arrow",
         "share_message": "Download This Amazing App and enjoy cricket free live streaming https:\/\/play.google.com\/store\/apps\/details?id=com.redstar.starsports.tv.startvsports",
         "bottom_visible": "no",
