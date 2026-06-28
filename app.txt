@@ -6,7 +6,7 @@
         "web_url": "https:\/\/example.com",
         "app_version": "0",
         "message": "Click here Download Football \u26bd\ufe0f Live Streaming App ",
-        "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.funzar.catblast",
+        "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mysticcraftz.goalpulse",
         "share_message": "Download This Amazing App and enjoy cricket free live streaming https:\/\/play.google.com\/store\/apps\/details?id=com.redstar.starsports.tv.startvsports",
         "bottom_visible": "no",
         "msg_visible": "no"
